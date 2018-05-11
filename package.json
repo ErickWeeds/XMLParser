@@ -1,0 +1,28 @@
+{
+  "name": "xml-parser",
+  "version": "1.0.0",
+  "description": "Simple XML to JSON parser",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickWeeds/XMLParser.git"
+  },
+  "keywords": [
+    "XML",
+    "to",
+    "JSON",
+    "parser",
+    "xml",
+    "json",
+    "parser"
+  ],
+  "author": "ErickW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErickWeeds/XMLParser/issues"
+  },
+  "homepage": "https://github.com/ErickWeeds/XMLParser#readme"
+}
