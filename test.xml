@@ -1,0 +1,8 @@
+<payment>
+    <amount>10.00</amount>
+    <amount>10.00</amount>
+    <amount>10.00</amount>
+    <amount>10.00</amount>
+    <from>Evan</from>
+    <to>PayStand</to>
+</payment>
