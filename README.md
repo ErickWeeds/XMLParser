@@ -15,13 +15,19 @@
     </amount>
     <from>Evan</from>
     <to>PayStand</to>
-</payment>```
-
+</payment>
+````
 >to this:
 
 ```javascript
-{ payment:
-   { amount: { currency: 'MXN', quantity: '10' },
-     from: 'Evan',
-     to: 'PayStand' } }
-```
+{
+  "payment": {
+    "amount": {
+      "currency": "MXN",
+      "quantity": "10"
+    },
+    "from": "Evan",
+    "to": "PayStand"
+  }
+}
+````
