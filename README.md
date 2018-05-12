@@ -19,7 +19,7 @@
 
 >to this:
 
-```json
+```javascript
 { payment:
    { amount: { currency: 'MXN', quantity: '10' },
      from: 'Evan',
