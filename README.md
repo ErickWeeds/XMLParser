@@ -24,7 +24,4 @@
    { amount: { currency: 'MXN', quantity: '10' },
      from: 'Evan',
      to: 'PayStand' } }
-´´´
-
-
-## Installation
+```
