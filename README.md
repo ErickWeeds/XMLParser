@@ -15,16 +15,19 @@
     </amount>
     <from>Evan</from>
     <to>PayStand</to>
-</payment>´´´
-
+</payment>
+````
 >to this:
 
-```json
-{ payment:
-   { amount: { currency: 'MXN', quantity: '10' },
-     from: 'Evan',
-     to: 'PayStand' } }
-´´´
-
-
-## Installation
+```javascript
+{
+  "payment": {
+    "amount": {
+      "currency": "MXN",
+      "quantity": "10"
+    },
+    "from": "Evan",
+    "to": "PayStand"
+  }
+}
+````
